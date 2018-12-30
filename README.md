@@ -1,2 +1,2 @@
-# HW3-Example
+# HW3
 
